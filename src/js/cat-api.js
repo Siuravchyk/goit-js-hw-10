@@ -1,5 +1,5 @@
 import axios from "axios";
-import { URL_KEY, API_KEY } from "../configs/api.js";
+import { URL_KEY, API_KEY } from "../configs/api";
 
 
 const axiosInstance = axios.create({
